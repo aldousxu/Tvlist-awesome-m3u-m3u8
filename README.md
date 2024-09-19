@@ -325,13 +325,6 @@ IPTV频道的EPG（电子节目指南）来源。
 
 <object type="image/svg+xml" data="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/tiers/backer.svg?avatarHeight=36&width=600"></object>
 
-## 赞助商
-
-通过成为赞助者来支持该项目。你的 Logo 将显示在此处，并带有网站的链接。 [ [成为赞助商](https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8#sponsor) ]
-
-<a href="https://geckorelay.me/" target="_blank"><img src="https://i.loli.net/2020/07/01/3fP8gciQ1IAGnk6.png" width="300px"></a>
-<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/website" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/avatar.svg"></a>
-
 ## 贡献者
 
 - 起初这里仅收录2018俄罗斯世界杯直播地址，配合赛程比分对阵供调用；
